@@ -25,6 +25,6 @@ Veri Ön İşleme : Görüntülerin yeniden boyutlandırılması ve normalleşti
 Model Oluşturma : Bir Evrişimsel Sinir Ağı'nın (CNN) mimarisini tanımlama. Model eğitim sürecini derleme ve başlatma.
 Model Değerlendirmesi : Eğitim ve doğrulama veri kümelerinde model performansının test edilmesi. Sonuçların görselleştirilmesi ve analiz edilmesi.
 Sonuçlar
-Eğitim süreci sonunda modelin %75'in üzerinde bir doğruluk oranına ulaştığı ve farklı balık türlerini etkin bir şekilde sınıflandırabildiği ortaya konuldu.
+Eğitim süreci sonunda modelin %97 oranında bir doğruluk oranına ulaştığı ve farklı balık türlerini etkin bir şekilde sınıflandırabildiği ortaya konuldu.
 
-Projeyi takım arkadaşım Berat Keskin ile geliştirip incelemenize sunuyoruz. 
+Projeyi takım arkadaşım Berat Keskin ile geliştirip incelemenize sunuyoruz. Teşekkürler..
