@@ -3,7 +3,8 @@ Akbank Derin Öğrenme Bootcamp Projesi
 
 📝 Bu belgede Python ve TensorFlow kullanarak derin öğrenme modeli eğitmek için temel adımlar anlatılmaktadır.
 
-Projeme Kaggle'dan [buradan] ulaşabilirsiniz.
+Projeyi takım arkadaşım BERAT KESKİN (https://github.com/BeratxKeskin) ile geliştirip incelemenize sunuyoruz. 
+Projemize Kaggle'dan [buradan] ulaşabilirsiniz.
 
 Proje Genel Bakışı
 Bu projede, a-large-scale-fish-dataset kullanarak bir balık sınıflandırma modeli geliştirdim . Veri seti çeşitli balık türlerini temsil eden 9.000 örnek içeriyor. Model eğitimi sırasında, sinir ağını oluşturmak ve optimize etmek için TensorFlow ve Keras kütüphanelerini kullandım.
@@ -26,5 +27,4 @@ Model Değerlendirmesi : Eğitim ve doğrulama veri kümelerinde model performan
 Sonuçlar
 Eğitim süreci sonunda modelin %75'in üzerinde bir doğruluk oranına ulaştığı ve farklı balık türlerini etkin bir şekilde sınıflandırabildiği ortaya konuldu.
 
-Proje Rehberi
-Depoyu tarayarak proje dosyalarını ve kod örneklerini keşfedin.
+Projeyi takım arkadaşım Berat Keskin ile geliştirip incelemenize sunuyoruz. 
