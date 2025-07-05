@@ -1,4 +1,3 @@
-Akbank Derin Öğrenme Bootcamp Projesi
 🚀 Akbank Derin Öğrenme Bootcamp Proje Deposu
 
 📝 Bu belgede Python ve TensorFlow kullanarak derin öğrenme modeli eğitmek için temel adımlar anlatılmaktadır.
